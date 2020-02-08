@@ -1,33 +1,34 @@
-# We are a Hackerspace
+# Somos um Hackerspace
 
-A hackerspace is a physical place, run by people interested in various aspects of constructive & creative hacking. From finding ways to make your beer cold in a matter of seconds to building a do-it-yourself sms-voting-system with an old android phone.
+O Hackerspace é um local físico, dirigido por pessoas interessadas em vários aspectos da construção e da criatividade hacker. Desde encontrar maneiras de deixar sua cerveja gelada em questão de segundos até criar uma sistema de automatizar uma tarefa corriqueira, ou até mesmo uma customização de um equipamento eletrônico.
 
-We are a breeding ground for awesome ideas. We provide a nest where those ideas can become reality. We operate by collaboration and openness. We allow people to fail, and to try again.
+Somos um terreno fértil para idéias impressionantes. Nós fornecemos um local onde essas idéias podem se tornar realidade. Operamos por colaboração e abertura. permitimos que as pessoas falhem e tentem novamente.
 
-## We learn from our failures
+Não podemos confiar em senso comum porque as pessoas têm realidades diferentes.
+As pessoas têm objetivos diferente e conflitantes, por esse motivo, nunca será alcançado consenso em certas coisas. Problemas surgirão e eles não serão resolvidos.
+Não ter solução é pior que uma solução ruim. Porque quando os problemas não são resolvidos, eles se acumulam até a comunidade desmoronar.
 
-We created our very own hackerspace in Ghent. We had two rules: be excellent to each other and decide everything by consensus. We thought normal human interaction and common sense would solve all problems. Sadly, this was not true: internal conflict almost killed our hackerspace. Instead of giving up, we decided to "Hack the Hackerspace"; we organized a number of workshops to figure out what went wrong and how to build a better hackerspace. We found that the problems could all be traced to the following root causes:
+Não podemos confiar no senso comum porque as pessoas têm realidades diferentes.
+As pessoas têm objetivos diferentes e conflitantes. Por isso, nunca será alcançado consenso sobre certas coisas. Problemas surgirão e eles não serão resolvidos.
+Não ter solução é pior do que uma solução ruim. Porque quando os problemas não são resolvidos, eles se acumulam até a comunidade desmoronar.
+Sabíamos que, para consertar isso, precisávamos de um sistema que tirasse o melhor proveito de todos e nos permitisse ser incríveis! Durante muitas discussões noturnas, desenvolvemos esse sistema e o escrevemos com o título de trabalho "hack the hackerspace". Isso acabou se tornando "o plano hackerspace", um documento que descreve como executar um espaço hackers de maneira a destacar o melhor das pessoas. Você pode baixar a versão mais recente em PDF deste documento. Uma versão epub também está disponível para e-readers.
 
-* We cannot rely on common sense because **people have different realities.**
-* **People have different, conflicting goals.** Because of that, consensus will never be reached on certain things. Problems will arise and they will not be solved.
-* **Having no solution is worse than a bad solution.** Because when problems aren't solved, they pile up until the community falls apart.
+O objetivo deste sistema é capacitar as pessoas a tirar o melhor proveito delas mesmas. Estimula a colaboração e permite que as pessoas pensem e resolvam problemas de forma criativa. Sabemos que este sistema será falho desde o início. Sabemos que o controle das pessoas é mau, mas um sistema defeituoso é melhor do que nenhum sistema. Além disso, atualizamos continuamente este sistema para torná-lo melhor. É por isso que o plano hackerspace está no GitHub. Queremos facilitar a contribuição da comunidade e que outras organizações o usem como base para seu próprio sistema.
 
-We knew that, in order to fix this, we needed a system that gets the best out of everyone and enables us to be awesome! During many late-night discussions, we fleshed out this system and wrote it down with the working title of "hack the hackerspace". This eventually became "the hackerspace blueprint", a document that describes how to run a hackerspace in a way that brings out the best in people. You can download **[the latest PDF version of this document](https://github.com/0x20/hackerspace-blueprint/releases/latest/download/hackerspace-blueprint.pdf).** An [epub version](https://github.com/0x20/hackerspace-blueprint/releases/latest/download/hackerspace-blueprint.epub) is also available for e-readers.
+# 1. Visão Geral
+O sistema principal que executa o Hackerspace é o do-ocracy, explicado mais adiante na Seção 2. Em resumo: Se você deseja que algo seja feito no hackerspace, faça você mesmo ou convencer alguém a fazer isso por você. O objetivo do ocracy é diminuir a barreira para contribuir o máximo possível.
 
-We have been refining this system for many years, tweaking it when we encounter new issues and explaining important parts in more details. This document specifically describes how Hackerspace Gent runs, but it is generic enough that it can be easily adapted to other hackerspaces and other self-governing organizations. Feel free to use and remix this for your own benefit, learn from our mistakes and let us know what you think of it!
+No entanto, quando você quiser fazer algo irreversível ou que afete a infraestrutura principal do espaço, poderá discuti-lo com os membros em uma reunião, conforme explicado na Seção 3. Essas reuniões também podem ser usadas para garantir que as pessoas apoiem o que você querer fazer.
 
-The goal of this system is to empower people to get the best out of themselves. It stimulates collaboration and enables people to think and solve problems creatively. We know that this system will be flawed from the start. We know that control of people is evil, but a flawed system is better than no system. Moreover, we continuously update this system to make it better. That is why [the hackerspace blueprint is on GitHub](https://github.com/0x20/hackerspace-blueprint). We want to make it easy for the community to contribute to it, and for other organizations to use it as a basis for their own system.
+Há dois problemas difíceis de resolver usando o Do-Ocracy e as reuniões: conflito interpessoal e manutenção da infraestrutura principal. A Seção 4 explica como o conselho resolve esses problemas como "guardiões" e "conselheiros" do espaço. Ao contrário de muitas outras organizações, o conselho não tem poder sobre o que o espaço deve fazer.
 
-# 1. Overview
+A seção 5 explica como você se torna um membro do espaço.
 
-The main system running the Hackerspace is **the do-ocracy**, explained further in Section 2. In short: If you want something done in the hackerspace, either do it yourself or convince someone else to do it for you. The goal of the do-ocracy is to lower the barrier to contributing as much as possible.
+Toda organização possui várias diretrizes tácitas sobre como você deve se comportar. Escrevemos alguns dos nossos na Seção 6 para facilitar o entendimento das pessoas sobre o que fazer em determinadas situações. Essas diretrizes não pretendem ser regras estritas, mas fornecem uma visão geral do que é bom e mau comportamento no espaço.
 
-However, when you want to do something that is irreversible or affects the core infrastructure of the space, you can discuss it with members on a **meeting** as explained in Section 3. These meetings can also be used to make sure that people will support what you want to do.
+Como todas as boas idéias que foram escritas uma vez foram mal interpretadas, incluímos as informações que nos ajudaram a criar esse sistema e as diretrizes. Nós chamamos isso de legado. É uma coleção de discussões, artigos, pesquisas e livros que usamos para criar o plano hackerspace. Ele fornece mais contexto sobre por que o sistema é do jeito que é. O legado deve ser usado como uma "cifra" para interpretar melhor o sistema e as diretrizes e explicar a lógica por trás delas.
 
-There are two issues that are hard to fix using do-ocracy and meetings: interpersonal conflict and core infrastructure maintenance. Section 4 explains how **the board** solves these issues as the "wardens" and "counselors" of the space. Unlike many other organizations, the board has no power over what the space should do.
 
-Section 5 explains how you become a **member** of the space.
-
-Every organization has a number of unspoken guidelines of how you should behave. We have written down some of ours in Section 6 in order to make it easier for people to get a sense of what to do in certain situations. These **guidelines** are not meant to be strict rules, but they give an overview of what is good and bad behavior in the space.
-
-Because every good idea that was once written down has been misinterpreted, we include the information that helped us create this system and the guidelines. We call it **the legacy**. It is a collection of discussions, articles, research and books that we used to create the hackerspace blueprint. It gives more context about why the system is the way it is. The legacy should by used as a "cipher" to interpret the system and the guidelines better and to explain the rationale behind them.
+# Referência 
+Tradução do documento The Hackerspace Blueprint, com melhorias em relatos com as experiências envolvendo o Laboratório Hacker de Campinas e seus membros.
+- [The Hackerspace Blueprint](https://hackerspace.design/)
