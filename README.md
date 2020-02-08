@@ -4,10 +4,6 @@ O Hackerspace é um local físico, dirigido por pessoas interessadas em vários 
 
 Somos um terreno fértil para idéias impressionantes. Nós fornecemos um local onde essas idéias podem se tornar realidade. Operamos por colaboração e abertura. permitimos que as pessoas falhem e tentem novamente.
 
-Não podemos confiar em senso comum porque as pessoas têm realidades diferentes.
-As pessoas têm objetivos diferente e conflitantes, por esse motivo, nunca será alcançado consenso em certas coisas. Problemas surgirão e eles não serão resolvidos.
-Não ter solução é pior que uma solução ruim. Porque quando os problemas não são resolvidos, eles se acumulam até a comunidade desmoronar.
-
 Não podemos confiar no senso comum porque as pessoas têm realidades diferentes.
 As pessoas têm objetivos diferentes e conflitantes. Por isso, nunca será alcançado consenso sobre certas coisas. Problemas surgirão e eles não serão resolvidos.
 Não ter solução é pior do que uma solução ruim. Porque quando os problemas não são resolvidos, eles se acumulam até a comunidade desmoronar.
