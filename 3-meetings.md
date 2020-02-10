@@ -1,151 +1,123 @@
-# 3. Meetings
+# 3. Reuniões
 
-## What should I discuss on a meeting?
+## O que devo discutir em uma reunião?
 
-Since the hackerspace is mainly a do-ocracy, there is actually very little that __needs__ to be discussed on a meeting. Do you want something done? Well then, don't talk about it, just do it. Moreover, meetings only have limited power since, even if everyone in the meeting agrees that "A" is something great to do, it will only be done if someone actually does it afterwards. **Therefore, meetings should be primarily focused on convincing people to do something or asking feedback on what you want to do instead of on deciding what should be done.**
+Como o espaço dos hackers é principalmente uma coisa oculta, na verdade há muito pouco que precisa ser discutido em uma reunião. Você quer algo feito? Bem, então, não fale sobre isso, apenas faça. Além disso, as reuniões só têm poder limitado, pois, mesmo que todos na reunião concordam que "A" é algo ótimo para se fazer, isso só será feito se alguém realmente o fizer depois. ** Portanto, as reuniões devem se concentrar principalmente em convencer as pessoas a fazer alguma coisa ou pedir feedback sobre o que você deseja fazer, em vez de decidir o que deve ser feito. **
 
-Things you should discuss on a meeting:
+Coisas que você deve discutir em uma reunião:
 
-* Before using money of the hackerspace, discuss it on a meeting and make sure the board knows about it.
-* When organizing big events in the space.
-* If you want to do something that affects a lot of people in the space, and is hard to reverse when people complain.
+* Antes de usar o dinheiro do hackerspace, discuta-o em uma reunião e verifique se o conselho o conhece.
+* Ao organizar grandes eventos no espaço.
+* Se você deseja fazer algo que afeta muitas pessoas no espaço e é difícil reverter quando as pessoas reclamam.
 
-Things you can discuss on a meeting:
+Coisas que você pode discutir em uma reunião:
 
-* You want everyone to be on the same page about a topic or issue.
-* If you want to make sure people will fully support what you want to do, you can hold a meeting to explain what you will do and ask for feedback.
-* If you want to do something that requires help from many people, you can use a meeting to convince people to help you.
-* If you have issues with the actions of a certain member and you failed to solve it with that member personally or you want the group's opinion on it.
+* Você deseja que todos estejam na mesma página sobre um tópico ou problema.
+* Se você quiser garantir que as pessoas apóiem ​​totalmente o que você quer fazer, faça uma reunião para explicar o que você fará e pedir feedback.
+* Se você quiser fazer algo que exija ajuda de muitas pessoas, poderá usar uma reunião para convencer as pessoas a ajudá-lo.
+* Se você tiver problemas com as ações de um determinado membro e não conseguiu resolvê-lo pessoalmente, ou deseja a opinião do grupo.
 
-## How do I schedule a meeting?
+## Como agendar uma reunião?
 
-Any member can schedule a meeting.
+Qualquer membro pode agendar uma reunião.
 
-1. Create a pad for the meeting topics and the meeting notes.
-2. Pick a date (preferably not during the social evening).
-3. Put the meeting in the calendar with a link to the meeting notes, announce it in the main channel and put a link in the changelog.
+1. Crie um bloco para os tópicos da reunião e as anotações da reunião.
+2. Escolha uma data (de preferência não durante a noite social).
+3. Coloque a reunião no calendário com um link para as notas da reunião, anuncie-a no canal principal e coloque um link no log de alterações.
 
-## How do we make a decision during a meeting?
+## Como tomamos uma decisão durante uma reunião?
 
-During meetings, the normal decision making model is "provided nobody says no": you discuss a topic and propose an action during a meeting. You ask if anyone objects to that action. If nobody objects, you have the permission to do that thing. When a decision has been made, you need to write down the exact decision in the meeting notes.
+Durante as reuniões, o modelo normal de tomada de decisão é "desde que ninguém diga não": você discute um tópico e propõe uma ação durante uma reunião. Você pergunta se alguém se opõe a essa ação. Se ninguém se opuser, você tem permissão para fazer isso. Quando uma decisão é tomada, você precisa anotar a decisão exata nas notas da reunião.
 
-Note that this intentionally favors the "yes" vote: there is a slight barrier to speak up and say "no". The thinking behind this is that we want to make the barrier to "doing" as low as possible. We only want people to voice their opinions when they think it's really important or when they are explicitly asked.
+Observe que isso intencionalmente favorece o voto "sim": há uma pequena barreira para se manifestar e dizer "não". O pensamento por trás disso é que queremos fazer a barreira para "fazer" o mais baixo possível. Nós só queremos que as pessoas expressem suas opiniões quando acharem que isso é realmente importante ou quando forem explicitamente solicitadas.
 
-## Why not regular consensus?
+## Por que não um consenso regular?
 
-[Consensus-based decision making](https://en.wikipedia.org/wiki/Consensus_decision-making) aims to involve as many stakeholders as possible in a decision. This is the exact opposite from our system, where we want to involve as few stakeholders as possible in a decision, in order to lower the barrier to "doing" as much as possible. Do-ocracy gives as much power as possible to the person doing it, instead of to the people who have an opinion on it. When you want to do something, you have to make sure that nobody will hate it, instead of making sure that everyone is pleased.
+[Tomada de decisão com base em consenso] (https://en.wikipedia.org/wiki/Consensus_decision-making) visa envolver o maior número possível de partes interessadas em uma decisão. Esse é exatamente o oposto de nosso sistema, onde queremos envolver o menor número possível de partes interessadas em uma decisão, a fim de diminuir a barreira para "fazer" o máximo possível. Do-ocracy dá o máximo de poder possível para a pessoa que faz, em vez de para as pessoas que têm uma opinião sobre isso. Quando você quer fazer algo, precisa garantir que ninguém o odeie, em vez de garantir que todos estejam satisfeitos.
 
-Having as many people as possible involved in a discussion encourages [Bikeshedding](http://bikeshed.com/): long useless discussion about trivial details that don't really matter in the bigger picture. This idea stems from Parkinson's [Law of triviality](https://en.wikipedia.org/wiki/Law_of_triviality), which shows that you can easily get approval for building a multi-million dollar atomic power plant, but if you want to build a bike shed, you will be tangled up in endless discussions about the color of the shed. This is because a power plant is so complicated that people cannot grasp it, while anyone can build a bike shed over the weekend so everyone can comment on it. People enjoy commenting on it because they want to be part of the discussion and they want to add a touch and show personal contribution. Although for the people voicing their opinion this might be enjoyable, it easily kills the passion of the person who wants to get things done, and it slows everything down to a crawl.
+Ter o maior número possível de pessoas envolvidas em uma discussão encoraja [Bikeshedding] (http://bikeshed.com/): longa discussão inútil sobre detalhes triviais que realmente não importam no quadro geral. Essa idéia deriva da [Lei da trivialidade] de Parkinson (https://en.wikipedia.org/wiki/Law_of_triviality), que mostra que você pode obter facilmente aprovação para a construção de uma usina atômica de vários milhões de dólares, mas se desejar construir um galpão para bicicletas, você se envolverá em intermináveis ​​discussões sobre a cor do galpão. Isso ocorre porque uma usina é tão complicada que as pessoas não conseguem compreendê-la, enquanto qualquer pessoa pode construir um barracão de bicicleta no fim de semana para que todos possam comentar sobre ela. As pessoas gostam de comentar porque querem fazer parte da discussão e querem adicionar um toque e mostrar contribuição pessoal. Embora isso possa ser agradável para as pessoas que expressam sua opinião, isso mata facilmente a paixão da pessoa que deseja fazer as coisas e atrasa tudo.
 
-## General Assembly and Statutes
+## Assembléia Geral e Estatutos
 
-A general assembly is different from a normal meeting in that it is governed by the rules in the official statutes of the legal entity "Hackerspace Gent (0x20)". As a Belgian non-profit organization, Hackerspace Gent is required to host a General Assembly each year. During a general assembly, the board is elected.
+Uma assembléia geral é diferente de uma assembléia normal, na medida em que é regida pelas regras nos estatutos oficiais da entidade legal "Laboratório Hacker de Campinas”. Como organização sem fins lucrativos, o Hackerspace LHC é obrigado a sediar uma Assembléia Geral a cada ano. Durante uma assembléia geral, o conselho é eleito.
 
-The statutes dictate the following.
+Os estatutos ditam o seguinte.
+[revisar no estatuto]
+* A Assembléia Geral precisa ser anunciada com pelo menos 10 dias de antecedência.
+* 50% dos membros precisam estar presentes durante uma Assembléia Geral.
+* 2/3 dos membros precisam estar presentes para alterar os estatutos e / ou o conselho.
+* As decisões durante a Assembléia Geral precisam de uma maioria de 2/3 dos membros atuais.
+* O conselho precisa ter pelo menos 3 membros.
 
-* The General Assembly needs to be announced at least 10 days beforehand.
-* 50% of members need to be present during a General Assembly.
-* 2/3 of members need to be present in order to change the statutes and/or the board.
-* Decisions during the General assembly need a 2/3 majority of the present members.
-* The board needs to have at least 3 members.
+Você pode encontrar a versão mais recente dos estatutos no diário do governo (staatsblad) (idioma holandês).
 
-You can find the latest version of the statutes in the Government gazette (staatsblad) (Dutch-language).
+1. Vá para <http://www.ejustice.just.fgov.be/tsv/tsvn.htm>
+2. Preencha `0x20` no campo" Benaming "e pressione o botão" Opzoeking ". Agora você deve ver um número ao lado do botão "opzoeking", isto é, quantos resultados de pesquisa existem. * 0x20 é o nome abreviado de "Hackerspace Gent", anteriormente "Whitespace". *
+3. Pressione o botão "lijst" para ver todos os resultados da pesquisa.
 
-1. Go to <http://www.ejustice.just.fgov.be/tsv/tsvn.htm>
-2. Fill in `0x20` in the "Benaming" field and press the "Opzoeking" button. Now you should see a number next to the "opzoeking" button, this is how many search results there are. *0x20 is the short name for "Hackerspace Gent", previously "Whitespace".*
-3. Press the "lijst" button to see all the search results.
+Informações mais importantes dos estatutos.
 
-More important information from the statutes.
+* O hackerspace precisa ter pelo menos 4 membros.
+* Novos membros precisam ser aprovados pelo conselho.
 
-* The hackerspace needs to have at least 4 members.
-* New members need to be approved by the board.
+## O modelo formal de tomada de decisão
 
-## The formal decision making model
+A maioria das decisões não exige uma estrutura rígida, mas precisamos de uma estrutura rígida para recorrer quando houver um conflito extremo que divida o espaço ou quando as pessoas não concordam em como a decisão é tomada. Nesses casos, um sistema baseado em consenso é usado para reunir novamente o espaço.
 
-Most decisions don't require a rigid structure but we need a rigid structure to fall back on when there is extreme conflict that divides the space or when people don't agree on how a decision is made. In such cases, a consensus-based system is used in order to re-unite the space.
+Em resumo; o tópico precisa ser incluído na agenda três dias antes da primeira reunião. Durante a primeira reunião, uma decisão precisa de 100% de consenso. Se nenhuma decisão for tomada, uma segunda reunião será agendada em que uma decisão sobre um tópico requer apenas 80% de consenso, portanto, uma decisão é tomada quando 20% ou menos dos membros se opõem. Se nenhuma decisão for tomada, uma terceira reunião será agendada em que uma decisão será tomada usando o "sistema de pontos", um sistema excessivamente complicado em que uma decisão sempre será tomada.
 
-In short; the topic needs to be put on the agenda three days before the first meeting. During the first meeting, a decision needs 100% consensus. If no decision is made, a second meeting is scheduled where a decision on a topic only requires 80% consensus, so a decision is made when 20% or less members object. If no decision is made, a third meeting is scheduled where a decision is made using the "point system", an over-complicated system where a decision will always be made.
 
-| PLAN/TIME                             | ACTION                                                      | DECISION       |
+
+| PLANO/TEMPO                           | AÇÃO                                                        | DECISÃO        |
 | ------------------------------------- |:-----------------------------------------------------------:| --------------:|
 | Three or more days before the meeting | Put the topic on the agenda.                                |                |
 | Meeting 1                             | Discuss in group, listen, learn and build compromise        | 100% consensus |
 | Meeting 2                             | Discuss in group, listen, learn and build compromise        | 80% consensus  |
 | Meeting 3                             | Discuss in group, listen, learn and build compromise        | Point system   |
 
-### Week before meeting
+### Semana antes da reunião
 
-The topic is put on the agenda of the meeting and is announced on the Mattermost (chat) server. This needs to be at least 3 days in advance.
+O tópico é colocado na agenda da reunião e é anunciado no servidor Planilha da reunião e lista. Isso precisa ter pelo menos 3 dias de antecedência.
 
-### Meeting 1
 
-The topic is discussed in the group and requires a 100% consensus to reach a group decision. The motivation for striving for consensus is because it comes with characteristics that benefit the hackerspace:
+### Reunião 1
 
-* encourages discussion
-* forces listening to opposing ideas that can give new insights
-* can bring smarter compromises
-* <https://en.wikipedia.org/wiki/Consensus>
+O tópico é discutido no grupo e requer um consenso de 100% para chegar a uma decisão do grupo. A motivação para a busca de consenso é que ele vem com características que beneficiam o espaço dos hackers:
 
-The required 100% consensus also means that a very small minority can block a decision. That is a desired feature but it comes with a responsibility. When a small minority or even an individual feels very strongly that a proposed decision is not correct they have the option to block a decision. This does not stop a decision completely because only the first meeting requires a full consensus. This means that the opposers need to use the time between the first and the second meeting to convince their fellow members of their viewpoint.
+* incentiva a discussão
+* força a ouvir idéias opostas que podem dar novas idéias
+* pode trazer compromissos mais inteligentes
+* <https://en.wikipedia.org/wiki/Consenso>
 
-### Meeting 2
+O consenso de 100% exigido também significa que uma minoria muito pequena pode bloquear uma decisão. Esse é um recurso desejado, mas vem com uma responsabilidade. Quando uma pequena minoria ou mesmo um indivíduo sente fortemente que uma decisão proposta não está correta, eles têm a opção de bloquear uma decisão. Isso não impede completamente uma decisão, porque apenas a primeira reunião exige um consenso completo. Isso significa que os opositores precisam usar o tempo entre a primeira e a segunda reunião para convencer os colegas de seu ponto de vista.
 
-The topic is discussed again but now a rough consensus of 80% is required to reach a decision (<https://en.wikipedia.org/wiki/Rough_consensus>). If the small minority of last week was not able to convince enough fellow members the decision will be passed with rough consensus of 80%. When their viewpoint makes enough sense to fellow members, critical mass must be found to reach a new compromise. All members joining the discussion must strive to reach the rough consensus, to build the compromise.
+### Reunião 2
 
-### Meeting 3
+O tópico é discutido novamente, mas agora é necessário um consenso aproximado de 80% para chegar a uma decisão (<https://en.wikipedia.org/wiki/Rough_consensus>). Se a pequena minoria da semana passada não conseguiu convencer um número suficiente de membros, a decisão será aprovada com um consenso aproximado de 80%. Quando o ponto de vista deles faz sentido para os colegas, é preciso encontrar massa crítica para alcançar um novo compromisso. Todos os membros que ingressam na discussão devem se esforçar para alcançar um consenso aproximado, para construir o compromisso.
 
-When all has failed, or the problem is too controversial, but a decision is still required, the point system below will be used to reach a decision.
+### Reunião 3
 
-### Point system
+Quando tudo falhar, ou o problema for muito controverso, mas ainda for necessária uma decisão, o sistema de pontos abaixo será usado para chegar a uma decisão.
 
-The point system is a **last-resort** option. This should not be the general process of resolving conflicts. If the space is starting to use this too much, that means that there is a structural problem in the group dynamic.
 
-**The point system has a few basic rules:**
+### Sistema de pontos
 
-* Each voter has a certain number of points that they can distribute over the different proposals.
-* The proposal with the most points wins.
-* In case of tie; re-vote.
-* **Number of points per voter  =** `(#_of_proposals * 2 ) + 1`
-* Results should be given to the group in binary format: which proposal won and which lost. This is to strengthen the support of the decision.
+O sistema de pontos é uma opção de ** último recurso **. Este não deve ser o processo geral de resolução de conflitos. Se o espaço está começando a usar muito isso, significa que há um problema estrutural na dinâmica do grupo.
 
-"No decision" is worse than a "bad decision". Conflict has to be solved eventually. That is why there is this last-resort option. However, we want to discourage people from blocking consensus. The point system has the following advantages:
+** O sistema de pontos possui algumas regras básicas: **
 
-* The outcome is not always clear because balanced ideas can still win, even if the minority would vote for them.
-* The minority will gain from convincing the majority that their idea is not completely ridiculous.
-* People have the ability to vote for, and thereby support, multiple ideas.
+* Cada eleitor possui um certo número de pontos que eles podem distribuir nas diferentes propostas.
+* A proposta com mais pontos vence.
+* Em caso de empate; voltar a votar.
+* ** Número de pontos por votante = ** `(#_of_proposals * 2) + 1`
+* Os resultados devem ser entregues ao grupo em formato binário: qual proposta venceu e qual perdeu. Isso é para fortalecer o apoio à decisão.
 
-In the point system, every voter gets some points that they can distribute between the different options.
+"Nenhuma decisão" é pior que uma "má decisão". O conflito deve ser resolvido eventualmente. É por isso que existe esta opção de último recurso. No entanto, queremos desencorajar as pessoas de bloquear o consenso. O sistema de pontos tem as seguintes vantagens:
 
-#### Examples
+* O resultado nem sempre é claro, porque as idéias equilibradas ainda podem vencer, mesmo que a minoria vote nelas.
+* A minoria ganhará convencendo a maioria de que sua idéia não é completamente ridícula.
+* As pessoas podem votar e, assim, apoiar várias idéias.
 
-| Vote without points | Points to proposal A  | Points to proposal B |
-| ------------------- |:---------------------:| --------------------:|
-| A                   | 3                     | 2                    |
-| A                   | 4                     | 1                    |
-| A                   | 3                     | 2                    |
-| A                   | 3                     | 2                    |
-| A                   | 4                     | 1                    |
-| A                   | 3                     | 2                    |
-| B                   | 2                     | 3                    |
-| B                   | 0                     | 5                    |
-| B                   | 1                     | 4                    |
-| B                   | 1                     | 4                    |
-| TOTAL               | 24                    | **26**               |
+No sistema de pontos, todo eleitor recebe alguns pontos que podem ser distribuídos entre as diferentes opções.
 
-As you can see in this example, a less extreme proposal that, on first sight, has the minority of the votes, can still win. This gives the minority the incentive to come up with moderate ideas that everyone can agree with.
 
-| Vote without points        |  Points to A                   | Points to B    |
-| -------------------------- |:------------------------------:| --------------:|
-| A                          | 4                              | 1              |
-| A                          | 5                              | 0              |
-| A                          | 5                              | 0              |
-| A                          | 4                              | 1              |
-| A                          | 5                              | 0              |
-| A                          | 5                              | 0              |
-| B                          | 4                              | 1              |
-| B                          | 0                              | 5              |
-| B                          | 0                              | 5              |
-| B                          | 0                              | 5              |
-| TOTAL                      | **32**                         | 18             |
-
-However, extreme ideas will not be able to "win". With extreme ideas, the outcome of this model will be the same as with a +50% majority.
