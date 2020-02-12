@@ -1,103 +1,105 @@
-# 6. Guidelines
+# 6. Diretrizes
 
-The hackerspace is a shared resource created *by* the community, *for* the community. It only exists because people think it's valuable enough to nourish it. Without the community, the hackerspace would simply not exist, so it is very important that we as a community collaborate and keep it fun for everyone.
+O hackerspace é um recurso compartilhado criado * pela * comunidade * para * a comunidade. Só existe porque as pessoas pensam que é valioso o suficiente para nutri-lo. Sem a comunidade, o espaço dos hackers simplesmente não existiria, por isso é muito importante que nós, como comunidade, colaboremos e o mantenhamos divertido para todos.
 
-We want you to be a part of it, but you need to do three things.
+Queremos que você faça parte disso, mas você precisa fazer três coisas.
 
-* Use common sense,
-* be excellent to others,
-* and don't be an asshole.
+* Use o senso comum,
+* seja excelente para os outros,
+* e não seja um idiota.
 
-People have different realities, values and morals, resulting in different ideas for how to do these three things. To get around these differing realities use empathy, not cunning. Continuously convincing others to see things your way will get you what you want in the short run but can breed resentment in the long run. Going out of your way to understand and to accommodate the other person's point of view strengthens the community itself. The guidelines below describe what the hackerspace thinks it means to use common sense, be excellent to others, and not be an asshole.
+As pessoas têm realidades, valores e moral diferentes, resultando em ideias diferentes sobre como fazer essas três coisas. Para contornar essas realidades diferentes, use empatia, não esperteza. Convencer os outros continuamente a ver as coisas do seu jeito vai conseguir o que você quer no curto prazo, mas pode gerar ressentimento no longo prazo. Fazer o possível para entender e acomodar o ponto de vista da outra pessoa fortalece a própria comunidade. As diretrizes abaixo descrevem o que o hackerspace acha que significa usar o bom senso, ser excelente para os outros e não ser um idiota.
 
-First and foremost, [the golden rule](http://en.wikipedia.org/wiki/Golden_Rule): treat others the way you want to be treated.
+Em primeiro lugar, [a regra de ouro] (http://en.wikipedia.org/wiki/Golden_Rule): trate os outros da maneira que você deseja ser tratado.
 
-## Loopholes
+## Lacunas
 
-The goal of the do-ocracy and these guidelines is to create an awesome community. The do-ocracy gives you a lot of freedom, but you need to use it wisely. People who try to exploit loopholes in this system to do things that damage the community cannot handle the freedom of a do-ocracy and will be pushed out very quickly. Do not read these guidelines like a lawbook, but read it like a cookbook. It doesn't matter if you use a bit more sugar than the recipe says, as long as your goal is to make the cake better.
+O objetivo do do-ocracy e essas diretrizes é criar uma comunidade incrível. O do-ocracy oferece muita liberdade, mas você precisa usá-lo com sabedoria. As pessoas que tentam explorar brechas neste sistema para fazer coisas que prejudicam a comunidade não podem lidar com a liberdade de fazer um ocracy e serão expulsas muito rapidamente. Não leia estas diretrizes como um livro de leis, mas leia-o como um livro de receitas. Não importa se você usa um pouco mais de açúcar do que a receita diz, desde que seu objetivo seja melhorar o bolo.
 
-## Projects
+## Projetos
 
-There is a clear distinction between "personal" and "space" projects. Keep this in mind so you know what to expect and what people can expect of you.
+Há uma clara distinção entre projetos "pessoais" e "espaciais". Lembre-se disso para saber o que esperar e o que as pessoas podem esperar de você.
 
-### Personal projects
+### Projetos pessoais
 
-* You have full control over how to do the project.
-* The project stuff/material is considered your personal property.
-* You decide what happens to the end-result of the project.
+* Você tem controle total sobre como executar o projeto.
+* O material / material do projeto é considerado sua propriedade pessoal.
+* Você decide o que acontece com o resultado final do projeto.
 
-### Space projects
+### Projetos espaciais
 
-* The do-ocracy decides how to do the project.
-* The project stuff/material is considered space property.
-* The do-ocracy decides what happens to the end result of the project.
+* O do-ocracy decide como fazer o projeto.
+* O material / material do projeto é considerado propriedade do espaço.
+* O ocracy decide o que acontece com o resultado final do projeto.
 
-## Property and tools
+## Propriedade e ferramentas
 
-### Personal property
 
-* Only members are allowed to have personal property in the space. You get one box (the membership box) where you can leave your stuff. If you need more space for your projects, bring it up in a group meeting.
-* If you break personal property of another member, you have to fully reimburse the member's losses.
-* All personal property that is not in a members box has to be labeled (including tools and machines).
+### Propriedade pessoal
 
-### Space property
+* Somente membros podem ter propriedades pessoais no espaço. Você recebe uma caixa (a caixa de associação) onde pode deixar suas coisas. Se você precisar de mais espaço para seus projetos, traga-o para uma reunião de grupo.
+* Se você violar propriedades pessoais de outro membro, deverá reembolsar totalmente as perdas do membro.
+* Todas as propriedades pessoais que não estão na caixa de membros devem ser rotuladas (incluindo ferramentas e máquinas).
 
-#### Using space property
+Propriedade de espaço
 
-* When you are using tools/infrastructure from the space, you are effectively borrowing that item from the community.
-* Return borrowed items as soon as possible in the same or better condition than when borrowed.
-* So when using something, clean it afterwards and put it back in its place.
-* If you are not trained to use tool X, don't use tool X but ask an expert to teach you first.
-* If you use one of the public workstations, please shut it off when you are done.
-* If you use the printer, please deposit some cash to pay for consumables.
+#### Usando a propriedade space
 
-#### Damaging or losing space property
+* Ao usar ferramentas / infraestrutura do espaço, você efetivamente empresta esse item da comunidade.
+* Retorne itens emprestados o mais rápido possível na mesma ou em melhores condições do que quando emprestados.
+* Portanto, ao usar algo, limpe-o depois e coloque-o de volta no lugar.
+* Se você não foi treinado para usar a ferramenta X, não use a ferramenta X, mas peça a um especialista para ensiná-lo primeiro.
+* Se você usar uma das estações de trabalho públicas, desligue-a quando terminar.
+* Se você usar a impressora, deposite algum dinheiro para pagar pelos consumíveis.
 
-If you damage or lose space property, you have to notice the community immediately in the Changelog or Main channel on mattermost. Explain what happened and if/how you will fix it.
+#### Danificar ou perder propriedade de espaço
 
-#### Taking space property out of the space
+Se você danificar ou perder a propriedade do espaço, deverá notificar a comunidade imediatamente no Changelog ou no canal Principal. Explique o que aconteceu e se / como você irá corrigi-lo.
 
-Only members are allowed to take space property out of the space. If you take space property out of the space, you have to notify the community immediately, for example in the Changelog or Main channel on Mattermost. If someone disagrees with you taking it out of the space, make that person happy or put it back.
+#### Tirando a propriedade space do espaço
 
-## Space maintenance
+Somente membros têm permissão para retirar a propriedade do espaço. Se você retirar a propriedade do espaço, precisará notificar a comunidade imediatamente, por exemplo, no canal Changelog ou Main no Mattermost. Se alguém discordar de você tirá-lo do espaço, faça-o feliz ou coloque-o de volta.
 
-### Cleaning
+## Manutenção de espaço
 
-* Keep the dishes clean: when using the dishes, clean your dishes and any dishes that are standing there. When you see other people using the dishes, and they forget cleaning them, give them a gentle reminder.
-* Keep the desks clean, feel free to use the desk space for your stuff, you can leave your stuff on the desk when you just 'pop out for some food', but leave a note stating when you'll be back. _Do Not_ leave it there until the next morning.
-* Remove empty packaging, from food or beverages.
-* Every once in a while there will be a cleaning day in the space, as a good upstanding member of the community you should attend one of these at least once quarterly. Many hands make light work.
+### Limpeza
 
-### Exit space
+* Mantenha a louça limpa: ao usá-la, limpe a louça e todos os pratos que estiverem ali. Quando vir outras pessoas usando a louça e elas esquecerem de limpá-las, lembre-as gentilmente.
+* Mantenha as mesas limpas, sinta-se à vontade para usar o espaço da mesa para guardar suas coisas, você pode deixá-las em cima da mesa quando apenas 'sair para comer', mas deixe uma nota informando quando voltará. _Não deixe até a manhã seguinte.
+* Remova as embalagens vazias de alimentos ou bebidas.
+* De vez em quando haverá um dia de limpeza no espaço. Como um bom membro da comunidade, você deve comparecer a um deles pelo menos uma vez trimestralmente. Muitas mãos fazem a luz funcionar.
 
-* If you are the last person to leave the space, it's your responsibility to clean up. If you see people leaving, please alert them if they have left their trash in the space.
-* Switch off all power consuming things
-* Close the roof
-* Read and follow the checklist at the door.
 
-### Throwing things away
+### Espaço de saída
 
-* Some things that seem a useless waste of space to you might be very valuable to other people. When you throw things away, you have to let the community know and give them enough time to object.
+* Se você é a última pessoa a deixar o espaço, é sua responsabilidade limpar. Se você vir pessoas saindo, avise-as se elas deixaram o lixo no espaço.
+* Desligue todas as coisas que consomem energia
+* Feche as janelas e portas.
+* Leia e siga a lista de verificação na porta.
 
-## Social behavior
+Jogando coisas fora
 
-* When in doubt if you're doing the right thing, you probably aren't.
-* Share your love and passion, but respect people's boundaries.
-* Don't hack people without their explicit consent.
+* Algumas coisas que parecem um desperdício inútil de espaço para você podem ser muito valiosas para outras pessoas. Quando você joga as coisas fora, precisa informar a comunidade e dar-lhes tempo suficiente para se opor.
 
-If you have any issues with other people's behavior, please notify the board. The board will help if you want, but even if you don't; still notify them so they know of the problem.
+## Comportamento social
 
-### Noise
+* Na dúvida, se você está fazendo a coisa certa, provavelmente não está.
+* Compartilhe seu amor e paixão, mas respeite os limites das pessoas.
+* Não corte as pessoas sem o seu consentimento explícito.
 
-People are trying to concentrate in here so:
+Se você tiver algum problema com o comportamento de outras pessoas, notifique o quadro. O conselho ajudará se você quiser, mas mesmo que não; ainda os notifique para que eles saibam do problema.
 
-* Mind your voice, volume. If you are talking to someone on the other side of the space, everyone in between can hear you; move closer.
-* We know you like X music, but use headphones or keep the volume low.
-* If you need to make a lot of noise, ask if you are not intruding/disturbing.
-* Some moments are 'louder' than others, so it's not always easy to follow. Sometimes library/office-rules apply, sometimes workshop-rules and sometimes bar-rules. When in doubt, check with the other members.
+### Ruído
 
-### Network/security
+As pessoas estão tentando se concentrar aqui, então:
 
-* Just leave other people's stuff alone, don't post "*funny*" social network status updates on unattended logged in computers.
-* Don't sniff the network, no ssl-strip / rogue dhcp / random script-kiddo stuff. It's been done before. It's lame.
-* Don't congest the network with (legal) torrenting, just behave nicely, so we don't have to write an AUP.
+* Cuide da sua voz, volume. Se você estiver conversando com alguém do outro lado do espaço, todos poderão ouvi-lo; aproxime-se.
+* Sabemos que você gosta de música X, mas use fones de ouvido ou mantenha o volume baixo.
+* Se você precisar fazer muito barulho, pergunte se você não está se intrometendo / incomodando.
+* Alguns momentos são mais altos que outros, portanto nem sempre é fácil acompanhar. Às vezes, regras de biblioteca / escritório se aplicam, às vezes regras de oficina e às vezes regras de barra. Em caso de dúvida, verifique com os outros membros.
+
+### Segurança de rede
+
+* Apenas deixe as coisas de outras pessoas em paz, não poste "* engraçado *" atualizações de status de redes sociais em computadores autônomos.
+* Não sniff a rede, nada de ssl-strip / rogue dhcp / random script-kidds.stuff Já foi feito antes. É coxo.
+* Não congestione a rede com torrent (legal), apenas se comporte bem, para que não tenhamos que escrever uma AUP.
