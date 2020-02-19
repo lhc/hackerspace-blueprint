@@ -1,3 +1,13 @@
+# Capítulos 
+ - [x] 1 [Visão Geral](https://github.com/lhc/hackerspace-blueprint/blob/master/1-visao-geral.md)
+ - [x] 2 [Faço-cracia (Do-ocracy)](https://github.com/lhc/hackerspace-blueprint/blob/master/2-do-ocracy.md)
+ - [x] 3 [Reuniões](https://github.com/lhc/hackerspace-blueprint/blob/master/3-reunioes.md)
+ - [x] 4 [O Conselho](https://github.com/lhc/hackerspace-blueprint/blob/master/4-o-conselho.md)
+ - [x] 5 [Associação](https://github.com/lhc/hackerspace-blueprint/blob/master/5-associacao.md)
+ - [x] 6 [Diretrizes](https://github.com/lhc/hackerspace-blueprint/blob/master/6-diretrizes.md)
+ - [x] 7 [O legado](https://github.com/lhc/hackerspace-blueprint/blob/master/7-o-legado.md)
+ - [x] 8 [Reconhecimentos](https://github.com/lhc/hackerspace-blueprint/blob/master/8-reconhecimentos.md)
+
 # Somos um Hackerspace
 
 O Hackerspace é um local físico, dirigido por pessoas interessadas em vários aspectos da construção e da criatividade hacker. Desde encontrar maneiras de deixar sua cerveja gelada em questão de segundos até criar uma sistema de automatizar uma tarefa corriqueira, ou até mesmo uma customização de um equipamento eletrônico.
@@ -11,16 +21,9 @@ Sabíamos que, para consertar isso, precisávamos de um sistema que tirasse o me
 
 O objetivo deste sistema é capacitar as pessoas a tirar o melhor proveito delas mesmas. Estimula a colaboração e permite que as pessoas pensem e resolvam problemas de forma criativa. Sabemos que este sistema será falho desde o início. Sabemos que o controle das pessoas é mau, mas um sistema defeituoso é melhor do que nenhum sistema. Além disso, atualizamos continuamente este sistema para torná-lo melhor. É por isso que o plano hackerspace está no GitHub. Queremos facilitar a contribuição da comunidade e que outras organizações o usem como base para seu próprio sistema.
 
-# Capítulos 
- - [x] 1 [Visão Geral](https://github.com/lhc/hackerspace-blueprint/blob/master/1-visao-geral.md)
- - [x] 2 [Faço-cracia (Do-ocracy)](https://github.com/lhc/hackerspace-blueprint/blob/master/2-do-ocracy.md)
- - [x] 3 [Reuniões](https://github.com/lhc/hackerspace-blueprint/blob/master/3-reunioes.md)
- - [ ] 4 [O Conselho](https://github.com/lhc/hackerspace-blueprint/blob/master/4-o-conselho.md)
- - [ ] 5 [Associação](https://github.com/lhc/hackerspace-blueprint/blob/master/5-associacao.md)
- - [x] 6 [Diretrizes](https://github.com/lhc/hackerspace-blueprint/blob/master/6-diretrizes.md)
- - [x] 7 [O legado](https://github.com/lhc/hackerspace-blueprint/blob/master/7-o-legado.md)
- - [x] 8 [Reconhecimentos](https://github.com/lhc/hackerspace-blueprint/blob/master/8-reconhecimentos.md)
- 
 # Referência 
 Tradução do documento The Hackerspace Blueprint, com melhorias em relatos com as experiências envolvendo o Laboratório Hacker de Campinas e seus membros.
 - [The Hackerspace Blueprint](https://hackerspace.design/)
+
+# Atualização
+19/02/2020 - Douglas Esteves
