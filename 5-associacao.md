@@ -1,44 +1,46 @@
-# 5. Membership
+# 5. Associação
 
-## How do I become a member?
+## Como me torno membro?
 
-1. Fill in [the membership application form](https://wiki.hackerspace.gent/Membership_form) and get two people to sign as sponsors. They will be responsible for making sure you get settled nicely, that you understand how the hackerspace works, and know how you can participate.
-2. Attend a meeting and present your application. On this meeting you announce you want to become a member and who your sponsors are. If you want you can talk a bit about why you're interested in the space. *Note: this meeting is simply an announcement. Your membership won't be discussed further, and no decision about it will be made on that meeting.*
-3. On the next meeting, your membership will be decided upon. It's useful to have you present at that meeting, but this is not a requirement. As a bonus for coming to the meeting, membership is often the first thing to be decided on a meeting. When you get voted in, you can join the rest of the meeting as a member! Membership decisions at a meeting follow the same process as other meeting decisions. See Chapter 3 for more info.
-4. Create an automatic bank transfer to transfer the membership fee each month. You will get your key after you made your first payment.
+1. Procure um associado para realizar a apresentação e suporte inicial ao grupo.
+Você também pode se apresentar em nossa lista de e-mail, algum grupo como Whatsapp ou Telegram. Depois em nosso site ir na área [Associa-se](https://lhc.net.br/wiki/Associe-se), em seguida membros do grupo está entrando em contato, uma pessoa será o responsável por mostrar o Hackerspace, Membros e o funcionamento do espaço como todo.
+2. Participe de uma reunião e apresente sua inscrição. Nesta reunião, você anuncia que deseja se tornar um membro e quem são seus associados, ou converse para algum membro lhe apresentar durante uma reunião mensal. Se você quiser, pode falar um pouco sobre por que está interessado no espaço. * Nota: esta reunião é simplesmente um anúncio. Sua associação não será mais discutida e nenhuma decisão será tomada nesta reunião. *
+3. Na próxima reunião, sua associação será decidida. É útil ter você presente nessa reunião, mas isso não é um requisito. Como um bônus por ter vindo à reunião, a associação geralmente é a primeira coisa a ser decidida em uma reunião. Quando você recebe um voto, você pode participar do restante da reunião como membro! As decisões de associação em uma reunião seguem o mesmo processo que as outras decisões de reunião. Veja o Capítulo 3 para mais informações.
+4. Crie uma transferência bancária automática para transferir a taxa de associação todos os meses. Você receberá sua chave depois de fazer seu primeiro pagamento.
 
-Why this process?
+Por que esse processo?
 
-* Step #1 ensures that two people know and trust the applicant enough to vouch for them. It als ensures that the "culture" of the space gets transferred to new members.
-* Step #2 ensures that the applicant understands how meetings are run and that there is some time between the applicant first arriving in the space and the applicant being voted in.
-* Step #3 ensures that there is enough support for the applicant. The meeting decision model is used for the same reasons as to why it's used for meetings: a bad solution is better than no solution.
-* Step #4 gives the new member an incentive to pay asap.
+* O passo 1 garante que duas pessoas conheçam e confiem no candidato o suficiente para testá-lo. Isso também garante que a "cultura" do espaço seja transferida para novos membros.
+* A etapa 2 garante que o candidato entenda como as reuniões são realizadas e que haja algum tempo entre o candidato chegar primeiro no espaço e o candidato que está sendo votado.
+* O passo 3 garante que haja suporte suficiente para o candidato. O modelo de decisão da reunião é usado pelos mesmos motivos pelos quais é usado para reuniões: uma solução ruim é melhor do que nenhuma solução.
+* O passo 4 dá ao novo membro um incentivo para pagar o mais cedo possível.
 
-*Note: If you want more context, see the `HTH_2018-11-17_membership.md` document in "the legacy" for more discussion on the membership procedure.*
+* Nota: Se você quiser mais contexto, consulte o documento `HTH_2018-11-17_membership.md` em" o legado "para obter mais discussões sobre o procedimento de associação. *
 
-## What are the responsibilities of a member?
+## Quais são as responsabilidades de um membro?
 
-*The members create and maintain the hacker environment.*
+* Os membros criam e mantêm o ambiente hacker. *
 
-When a conflict/problem can not be resolved between individuals, via do-ocracy or when it impacts the group, a group decision is required. Any member can request that a decision is made on a meeting instead of by do-ocracy or individual members.
+Quando um conflito / problema não pode ser resolvido entre indivíduos, via do-ocracy ou quando afeta o grupo, é necessária uma decisão do grupo. Qualquer membro pode solicitar que uma decisão seja tomada em uma reunião, e não por membros do ocracy ou individuais.
 
-The members should do the following things as a group.
+Os membros devem fazer o seguinte em grupo.
 
-* Create and patch the hackerspace blueprint.
-* Solve problems in the hackerspace when do-ocracy cannot fix them.
-* Electing the board during a General Assembly.
+* Crie e corrija o blueprint do hackerspace.
+* Resolva problemas no espaço dos hackers quando o do-ocracy não puder corrigi-los.
+* Eleger o conselho durante uma Assembléia Geral.
 
-*The individuals have to be excellent.*
+* Os indivíduos precisam ser excelentes. *
 
-* Organize workshops, events, lectures.
-* Follow do-ocracy.
-* Actively try to fix problems.
-* Maintain personal safety and that of others.
-* Follow and enforce the Guidelines.
+* Organize oficinas, eventos, palestras.
+* Siga do-ocracy.
+* Tente ativamente corrigir problemas.
+* Manter a segurança pessoal e a dos outros.
+* Siga e aplique as Diretrizes.
 
-## Non-members
+## Não membros
 
-Non-members are also an important part of the space. They can contribute to the hacker environment and they can be potential members. However, non-members have less privileges than members.
+Os não membros também são uma parte importante do espaço. Eles podem contribuir para o ambiente hacker e podem ser membros em potencial. No entanto, os não membros têm menos privilégios que os membros.
 
-* Non-members are only allowed in the space when they are in company of a member. That member is responsible for the actions of the non-member.
-* Non-members have to follow the guidelines. A non-member is not allowed to challenge a decision made by the group. If the non-member disagree with a decision made by the group, then they should become a member and bring the topic forward on a meeting.
+* Não-membros só são permitidos no espaço quando estão na companhia de um membro. Esse membro é responsável pelas ações do não membro.
+* Os não membros devem seguir as diretrizes. Um não-membro não tem permissão para contestar uma decisão tomada pelo grupo. Se o não membro discordar de uma decisão tomada pelo grupo, ele deve se tornar um membro e apresentar o tópico em uma reunião.
+
