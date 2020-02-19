@@ -1,53 +1,60 @@
-# 4. The Board
+# 4. O Conselho
 
-The board exists to make sure the hacker environment survives. The board members are not the leaders of the space, they are the firemen of the space. They make sure the physical space stays available and the members keep loving each other. Apart from that, the board members should be *indistinguishable* from normal members. The board members don't have any more say over the direction of the space or the projects in the space than any other member.
+O conselho existe para garantir que o ambiente hacker sobreviva. Os membros do conselho não são os líderes do espaço, eles são os bombeiros do espaço. Eles garantem que o espaço físico permaneça disponível e os membros continuem se amando. Além disso, os membros do conselho devem ser *indistinguíveis* dos membros normais. Os membros do conselho não têm mais voz sobre a direção do espaço ou os projetos no espaço do que qualquer outro membro.
 
-Specifically, the board has two roles, and for everything that doesn't fall into these roles, the board members are regarded as regular members.
+Especificamente, o conselho tem duas funções e, para tudo que não se enquadra nessas funções, os membros do conselho são considerados membros regulares.
 
-1. *Warden of the physical core infrastructure of the space.* This stems from [the infrastructure pattern](https://wiki.hackerspaces.org/The_Infrastructure_Pattern). Provide a room with power, internet, a bar and [a kitchen](https://wiki.hackerspaces.org/The_Kitchen_Pattern) and the hackers will come. An important aspect of this is keeping a good relationship with the surroundings as said in [the landlord and neighborhood pattern](https://wiki.hackerspaces.org/The_Landlord_and_Neighbourhood_Pattern).
-2. *Counselor for the people in the space.* When conflict happens that can't be resolved in the group, the board is responsible for resolving the conflict. A great way to do this is [the private talk pattern](https://wiki.hackerspaces.org/The_Private_Talk_Pattern): go talk to the involved parties in private, listen to them and let them know how the group feels.
+1. * Protetor da infraestrutura física básica do espaço. * Isso decorre do [padrão de infraestrutura] (https://wiki.hackerspaces.org/The_Infrastructure_Pattern). Forneça uma sala com energia, internet, um bar e [uma cozinha] (https://wiki.hackerspaces.org/The_Kitchen_Pattern) e os hackers virão. Um aspecto importante disso é manter um bom relacionamento com o ambiente, conforme dito em [padrão do proprietário e da vizinhança] (https://wiki.hackerspaces.org/The_Landlord_and_Neighbourhood_Pattern).
+2. * Conselheiro para as pessoas no espaço. * Quando acontece um conflito que não pode ser resolvido no grupo, o conselho é responsável por resolvê-lo. Uma ótima maneira de fazer isso é [o padrão de conversas particulares] (https://wiki.hackerspaces.org/The_Private_Talk_Pattern): vá conversar com as partes envolvidas em particular, ouça-as e informe-as como o grupo se sente.
 
-It's important for the board to communicate openly about what they do.
+É importante que o conselho se comunique abertamente sobre o que eles fazem.
 
-Both jobs are critically important to the space. Many hackerspaces disbanded because they were kicked out by their landlord and many hackerspaces fell apart because of internal conflict. It is important to get the right people in the board. **This is why the board has very little power and only in exceptional circumstances: so it doesn't attract people who want to be in power.**
+Ambos os trabalhos são extremamente importantes para o espaço. Muitos espaços de hackers se dissolveram porque foram expulsos pelo proprietário e muitos espaços de hackers se separaram por causa de conflitos internos. É importante ter as pessoas certas no conselho. ** É por isso que o conselho tem muito pouco poder e apenas em circunstâncias excepcionais: para não atrair pessoas que querem estar no poder. **
 
-## Why is there a board?
 
-There are two reasons why Hackerspace Gent has a board:
 
-- A Belgian non-profit organization (VZW) requires a board which is legally liable in case something goes wrong. In the past, we had a board on paper, but the space was completely run by consensus. This caused a bunch of issues since the board was legally liable, but it didn't actually have any power to prevent bad things from happening.
-- People don't like conflict and confrontation. If nobody speaks up and nobody actively tries to resolve conflicts, people just ignore it until it explodes, taking down half the space with it. Hackerspace Gent almost disbanded after such an explosion and we vowed to never have it again. Thus, the board is responsible for speaking up and fixing conflicts, even if that is really uncomfortable.
+## Por que existe um quadro?
 
-## What power does the board have?
 
-The board can temporarily ban people from the space if they think it's necessary for resolving conflict and protecting the space. If they do that, they need to let the members know who is banned and why. In the next meeting, the problem has to be discussed so the members can decide on a permanent solution.
+No Laboratório Hacker de Campinas
 
-## When should I talk to the board?
+Uma organização sem fins lucrativos  exige um conselho legalmente responsável no caso de algo dar errado. Antes da oficialização os problemas era resolvido através do consenso entre os membros. 
+Para evitar que problemas ou conflitos fique maior e acabe estourando em algo maior, Assim o conselho é responsável por se manifestar e corrigir conflitos, mesmo que isso seja realmente desconfortável.
 
-When there's a fire, you call the fire department to come help you. When you want to light a huge 50 meter bonfire, you check with the fire department to see if they think it's safe.
+## Que poder o conselho tem?
 
-The same applies to the board, talk to them when there is a big issue and check with them when you do something that's part of their role (warden and counselor).
+O conselho pode banir temporariamente as pessoas do espaço, se acharem necessário resolver conflitos e proteger o espaço. Se eles fizerem isso, precisam informar aos membros quem foi banido e por quê. Na próxima reunião, o problema precisa ser discutido para que os membros possam decidir sobre uma solução permanente.
 
-Here are some examples of when you should check with the board before you do it.
+## Quando devo falar com o quadro?
 
-- If you're spending space money.
-- If you want to make changes to membership fees, the bar, the space shop, ...
-- If you want to make changes to the electricity, and internet.
-- If you want to make changes to the space building that affect fire safety, electrical safety, structural integrity or changes that would make the building collapse.
+Quando há um incêndio, você liga para o corpo de bombeiros para ajudá-lo. Quando você quer acender uma enorme fogueira de 50 metros, verifique com o corpo de bombeiros para ver se eles acham que é seguro.
 
-This isn't necessarily to get their approval, more to give them a chance to stop you if they think it's a bad idea. *Note: If something has been decided on a meeting with the board present, you can assume the board doesn't have any objections to it, and you can just do it.*
+O mesmo se aplica ao conselho, converse com eles quando houver um grande problema e verifique com eles quando você fizer algo que faça parte de seu papel (diretor e conselheiro).
 
-Moreover, if people are abusing the space, people in the space, or you, then it's best to inform the board. You're free to ask help from anyone you feel comfortable with, but it's best to also inform a board member so that they can intervene when someone harasses multiple people in private.
+Aqui estão alguns exemplos de quando você deve verificar com o quadro antes de fazê-lo.
 
-## Who should be in the board?
+- Se você está gastando espaço em dinheiro.
+- Se você quiser fazer alterações nas taxas de associação, no bar, na loja espacial, ...
+- Se você deseja fazer alterações na eletricidade e na internet.
+- Se você quiser fazer alterações no edifício espacial que afetem a segurança contra incêndio, a segurança elétrica, a integridade estrutural ou as alterações que causariam o colapso do edifício.
 
-The board does not have any say about what other members are to do, and you want people in the board that like/keep it that way.
 
-- The "warden" role requires people who are responsible and dependable. The kind of people who say "maybe that's not such a good idea, we might get thrown out if we do that".
-- The "counselor" role requires people who are open communicators, good listeners, and good at defusing a situation.
+Isso não é necessariamente para obter a aprovação deles, mas para dar a eles a chance de pará-lo, se acharem que é uma má ideia. * Observação: se algo foi decidido em uma reunião com a diretoria presente, você pode assumir que a diretoria não tem nenhuma objeção e pode fazê-lo. *
 
-Both roles require people who are trusted by the members, are open to feedback, and who communicate openly about what they're doing. Since a position with power is controversial (rightly so) in the hacker community, it's incredibly important that the members trust the people in the board. The board will make difficult decisions and the members need to trust that these decisions are the right ones for the space, not just the right ones for the people in the board.
+Além disso, se as pessoas estão abusando do espaço, pessoas no espaço ou você, é melhor informar o quadro. Você pode pedir ajuda a qualquer pessoa com quem se sinta confortável, mas é melhor também informar um membro do conselho para que ele possa intervir quando alguém perseguir várias pessoas em particular.
 
-## How does the board get elected and expelled?
+Quem deveria estar no quadro?
 
-During a general assembly, the members vote on electing and expelling the board according to the statutes. For more information, refer to the "Meetings" Section.
+O conselho não tem voz a dizer sobre o que os outros membros devem fazer, e você deseja que as pessoas no conselho gostem / mantenham dessa maneira.
+
+- O papel de "diretor" requer pessoas que sejam responsáveis ​​e confiáveis. O tipo de pessoa que diz "talvez não seja uma boa idéia, podemos ser expulsos se fizermos isso".
+- O papel de "conselheiro" requer pessoas que sejam comunicadores abertos, bons ouvintes e bons em neutralizar uma situação.
+
+Ambas as funções requerem pessoas em quem os membros confiem, estejam abertas a feedback e que se comuniquem abertamente sobre o que estão fazendo. Como uma posição com poder é controversa (com razão) na comunidade de hackers, é incrivelmente importante que os membros confiem nas pessoas do conselho. O conselho tomará decisões difíceis e os membros deverão confiar que essas decisões são as corretas para o espaço, e não apenas as corretas para as pessoas no conselho.
+
+## Como o conselho é eleito e expulso?
+
+Durante uma assembléia geral, os membros votam na eleição e expulsão do conselho, de acordo com os estatutos. Para mais informações, consulte a seção "Reuniões".
+
+
+
