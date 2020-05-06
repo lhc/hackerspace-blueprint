@@ -26,5 +26,5 @@ Tradução do documento The Hackerspace Blueprint, com melhorias em relatos com 
 - [The Hackerspace Blueprint](https://hackerspace.design/)
 
 # Atualização
-19/02/2020 - Douglas Esteves
-06/05/2020 - Douglas Esteves
+- 19/02/2020 - Douglas Esteves
+- 06/05/2020 - Douglas Esteves
