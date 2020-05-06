@@ -17,7 +17,7 @@ Somos um terreno fértil para idéias impressionantes. Nós fornecemos um local 
 Não podemos confiar no senso comum porque as pessoas têm realidades diferentes.
 As pessoas têm objetivos diferentes e conflitantes. Por isso, nunca será alcançado consenso sobre certas coisas. Problemas surgirão e eles não serão resolvidos.
 Não ter solução é pior do que uma solução ruim. Porque quando os problemas não são resolvidos, eles se acumulam até a comunidade desmoronar.
-Sabíamos que, para consertar isso, precisávamos de um sistema que tirasse o melhor proveito de todos e nos permitisse ser incríveis! Durante muitas discussões noturnas, desenvolvemos esse sistema e o escrevemos com o título de trabalho "hack the hackerspace". Isso acabou se tornando "o plano hackerspace", um documento que descreve como executar um espaço hackers de maneira a destacar o melhor das pessoas. Você pode baixar a versão mais recente em PDF deste documento. Uma versão epub também está disponível para e-readers.
+Sabíamos que, para consertar isso, precisávamos de um sistema que tirasse o melhor proveito de todos e nos permitisse ser incríveis! Durante muitas discussões noturnas, desenvolvemos esse sistema e o escrevemos com o título de trabalho "hack the hackerspace". Isso acabou se tornando "o plano hackerspace", um documento que descreve como executar um espaço hackers de maneira a destacar o melhor das pessoas. 
 
 O objetivo deste sistema é capacitar as pessoas a tirar o melhor proveito delas mesmas. Estimula a colaboração e permite que as pessoas pensem e resolvam problemas de forma criativa. Sabemos que este sistema será falho desde o início. Sabemos que o controle das pessoas é mau, mas um sistema defeituoso é melhor do que nenhum sistema. Além disso, atualizamos continuamente este sistema para torná-lo melhor. É por isso que o plano hackerspace está no GitHub. Queremos facilitar a contribuição da comunidade e que outras organizações o usem como base para seu próprio sistema.
 
@@ -27,3 +27,4 @@ Tradução do documento The Hackerspace Blueprint, com melhorias em relatos com 
 
 # Atualização
 19/02/2020 - Douglas Esteves
+06/05/2020 - Douglas Esteves
