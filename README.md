@@ -1,7 +1,7 @@
 # Capítulos 
  - [x] 1 [Visão Geral](https://github.com/lhc/hackerspace-blueprint/blob/master/1-visao-geral.md)
  - [x] 2 [Faço-cracia (Do-ocracy)](https://github.com/lhc/hackerspace-blueprint/blob/master/2-do-ocracy.md)
- - [x] 3 [Reuniões](https://github.com/lhc/hackerspace-blueprint/blob/master/3-reunioes.md) [Em revisão]
+ - [x] 3 [Reuniões](https://github.com/lhc/hackerspace-blueprint/blob/master/3-reunioes.md)
  - [x] 4 [O Conselho](https://github.com/lhc/hackerspace-blueprint/blob/master/4-o-conselho.md) [Em revisão]
  - [x] 5 [Associação](https://github.com/lhc/hackerspace-blueprint/blob/master/5-associacao.md)
  - [x] 6 [Diretrizes](https://github.com/lhc/hackerspace-blueprint/blob/master/6-diretrizes.md)
